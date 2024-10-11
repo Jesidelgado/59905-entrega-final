@@ -1,0 +1,13 @@
+//body
+
+body{
+    background-color: $background-grey;
+}
+
+main{
+    margin: 10px;
+    padding: 10px;
+    display: grid;
+    grid-column: 1fr;
+    grid-template-rows: 1fr;
+}
